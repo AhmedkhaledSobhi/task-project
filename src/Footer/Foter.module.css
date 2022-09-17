@@ -1,0 +1,28 @@
+
+
+
+footer
+{
+    height: 17% !important;
+}
+
+img[id='foterimg']{
+    width: 50% !important;
+}
+
+@media (max-width: 575.98px) {
+    
+    div[id='Fot']
+    {
+        width: 100% !important;
+    }
+
+    img[id='fotImg']
+    {
+        width: 25px !important;
+    }
+    img[id='foterimg']{
+        width: 25px !important;
+    }
+
+}

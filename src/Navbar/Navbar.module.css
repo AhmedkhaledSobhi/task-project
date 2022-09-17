@@ -1,0 +1,27 @@
+
+.naaa
+{
+    background-color: #1C1C1C;
+}
+.nasaa
+{
+    width: 70%!important;
+}
+  
+
+/* ======= media screan  ============== */
+
+@media (max-width: 575.98px) {
+    .nasaa{
+        width: 100% !important;
+        margin: 0px 25px !important;
+    }
+
+    img[id='imgLogo']{
+        width: 25% !important;
+    }
+
+  
+    
+}
+

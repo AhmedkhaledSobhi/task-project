@@ -1,0 +1,57 @@
+
+
+.carouselIndicators
+{
+    background-color: #FFFFFF !important;
+    width: 70px !important;
+    height: 5px !important;
+    padding-bottom: 23px !important;
+}
+
+.slideButton
+{
+    background-color: #A7A9AC !important;
+    width: 5px !important;
+    height: 5px !important;
+}
+
+.slidecontrol
+{
+    background-color: #FFFFFF !important;
+}
+
+div[id='containDisplayProduct']{
+    width:1280px !important;
+    height: 395px !important;
+    border-radius:15px !important;
+}
+
+/* =================  ================== */
+
+@media(max-width: 575.98px){
+
+    img[id='Homeslide']{
+        height:35vh !important;
+        width:365px !important;
+        margin-top: 10px !important;
+    }
+    .carouselIndicators
+    {
+        width: 50px !important;
+        height: 18px !important;
+        margin-top: 5px !important;
+    }
+    .slideButton
+    {
+        width: 3px !important;
+        height: 3px !important;
+        margin-bottom: 18px !important;
+    }
+    button[id='btnslid']{
+        width: 10% !important;
+        
+    }
+
+
+    
+}
